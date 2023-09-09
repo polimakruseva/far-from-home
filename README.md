@@ -30,27 +30,27 @@ Game was designed by **"Bez-bab"** team (@sherri-ice, @yanapush, @shine-bright-l
 ## Gameplay <a name="gameplay"></a>
 ### Menu
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/Screenshot%20from%202021-10-28%2009-00-13.png)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/Screenshot%20from%202021-10-28%2009-00-13.png)
 
 To pause the game and enter menu press 'Space'.
 
 ### Kittens
 #### Main kitten:
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/kitten.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/kitten.jpg)
 
 You can navigate your cat using keys _WASD._
 
 #### Collect kittens:
 
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/kittens.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/kittens.jpg)
 
 
 You can't see it while playing, but your main cat actually has special visibility
 area:
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/radius.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/radius.jpg)
 
 Inner circle defines trigger border for cats: if kitten came up close to this 
 area then it will be added to the _group_.
@@ -65,22 +65,22 @@ Also borders of these areas grow depending on the number of cats in your pack.
 ### Health
 Cat has health. Indicator is at the top of the screen:
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/full.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/full.jpg)
 
 Health decreases during game process. You will get the first warning when only 40% 
 of health is left:
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/middle_health.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/middle_health.jpg)
 
 
  If you've got only 15% of health left, you will get last warning and all cats in
  your group will leave you:
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/no_healtj.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/no_healtj.jpg)
 
 If no health left you will die :(
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/die.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/die.jpg)
 
 
 ### Food
@@ -88,12 +88,12 @@ To increase your health you can eat some delicious food! Be aware: with time
 some food can be spoiled and actually decrease your health. Don't worry fresh 
 food is also generated with time.
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/food.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/food.jpg)
 
 ### Enemies
 #### Dog
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/dog.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/dog.jpg)
 
 Despite it looks so cute, it's your enemy!
 
@@ -107,7 +107,7 @@ run away!
 
 They are hidden inside the trees. To send your cat on search click on the tree.
 
-![](https://github.com/sherri-ice/far-from-home/blob/readme/images/markdown/portak.jpg)
+![](https://github.com/polimakruseva/far-from-home/blob/main/images/markdown/portak.jpg)
 
 ### Map
 
